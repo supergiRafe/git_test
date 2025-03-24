@@ -1,1 +1,19 @@
-ok maintenant c'est bon
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>hffldhf</title>
+    </head>
+    <body>
+        <ul>
+            <li>sushi</li>
+            <li>popcorn</li>
+            <li>sel et vinaigre</li>
+        </ul>
+        <ol>
+            <li>message Judite</li>
+            <li>message Annie</li>
+            <li>inscription elections</li>
+        </ol>
+    </body>
+</html>
